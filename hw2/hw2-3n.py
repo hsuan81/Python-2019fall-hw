@@ -1,0 +1,10 @@
+A = input()
+B = input()
+print(len(A))
+R = A.split(B)
+print(R)
+
+#C = A.replace(B,'d')
+#print(C.split('d'))
+#C = A.split(' ')
+#print(C)
